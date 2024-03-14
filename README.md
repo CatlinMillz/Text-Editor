@@ -32,3 +32,5 @@ THEN I should have proper build scripts for a webpack application
 
 # Demo
 [https://github.com/CatlinMillz/Text-Editor](https://github.com/CatlinMillz/Text-Editor)
+
+![demo][./assets/demo19.png]
